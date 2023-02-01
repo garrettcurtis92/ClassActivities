@@ -1,0 +1,12 @@
+.header {
+  text-decoration: underline;
+  color: aquamarine;
+
+}
+
+#list > ol{
+  text-align: center;
+}
+h2, h1 {
+  color: blueviolet;
+}
