@@ -1,0 +1,16 @@
+.heading {
+  text-decoration: underline;
+  color: aquamarine;
+
+}
+
+#list > ol{
+  text-align: center;
+}
+ol, ul {
+  color: blueviolet;
+}
+
+img{
+  size: 50rem;
+}
