@@ -1,4 +1,4 @@
-.header {
+.heading {
   text-decoration: underline;
   color: aquamarine;
 
@@ -7,6 +7,10 @@
 #list > ol{
   text-align: center;
 }
-h2, h1 {
+ol, ul {
   color: blueviolet;
+}
+
+img{
+  size: 50rem;
 }
